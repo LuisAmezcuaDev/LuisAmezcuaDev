@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Sobre mi
+
+- ⭐ Web developer 
+- 📲 Mobile developer
+- 🎥 i'm searching my first job
+<br>
