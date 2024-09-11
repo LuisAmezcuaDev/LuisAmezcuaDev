@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Sobre mi
+## About me
 
 - ⭐ Web developer 
 - 📲 Mobile developer
 - 🎥 i'm searching my first job
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuisAme<cuaDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisAmezcuaDev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
